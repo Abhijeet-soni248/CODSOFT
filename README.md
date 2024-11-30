@@ -1,3 +1,3 @@
 # CODSOFT
 <br>
-Author - ABhijeet Soni
+Author - Abhijeet Soni
